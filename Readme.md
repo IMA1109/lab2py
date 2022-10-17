@@ -33,6 +33,10 @@ print("Saya sedang belajar python")
 * maka akan muncul program yang dijalankan
 
 ![output latihan1](https://user-images.githubusercontent.com/47426095/196226031-5cf0d83f-7851-4915-8e9a-ba29573e4149.PNG)
+```
+Hello
+Saya sedang belajar python
+```
 
 
 ## Latihan 2
@@ -43,6 +47,16 @@ print("Saya sedang belajar python")
 * tulis kode seperti contoh
 
 ![sc latihan2](https://user-images.githubusercontent.com/47426095/196226836-40354e47-58b9-41e1-984f-976a927d2750.PNG)
+``` python
+# menjumlahkan dua bilangan menggunakan variabel a & b
+a = 8
+b = 6
+
+print("Variabel a =",a)
+print("Variabel b =",b)
+print("hasil penjumlahan a + b =", a+b)
+```
+
 
 * klik tombol run
 
@@ -52,6 +66,13 @@ print("Saya sedang belajar python")
 
 ![output latihan2](https://user-images.githubusercontent.com/47426095/196226922-3323d8f6-6c99-496f-a256-6be4fa13e638.PNG)
 
+```
+Variabel a = 8
+Variabel b = 6
+hasil penjumlahan a + b = 14
+```
+
+
 ## Latihan 3
 * buat file latihan3.py
 
@@ -60,7 +81,25 @@ print("Saya sedang belajar python")
 * tulis kode seperti contoh
 
 ![sc latihan3](https://user-images.githubusercontent.com/47426095/196228827-fce2b33a-baf6-440e-91f5-670c70b358be.PNG)
+```python
+#input nilai variabel
+a = input("masukan nilai pertama: ")
+b = input("masukan nilai kedua: ")
 
+#cetak nilai variabel
+print("variabel a = ", a)
+print("variabel b = ", b)
+
+#cetak hasil kedua operasi variabel dengan string format
+print("Hasil Penggabungan {1} & {0} = ".format(a,b) + str(a)+str(b))
+
+#konversi nilai variabel 
+a = int(a);
+b = int(b);
+
+print("Hasil penjumlahan {1} + {0} = %d".format(a,b) %(a+b))
+print("Hasil pembagian {1} / {0} = %d".format(a,b) %(a/b))
+```
 * klik tombol run
 
 ![run python](https://user-images.githubusercontent.com/47426095/196228887-fddb8a47-afc5-4476-af01-e03a07e849ab.PNG)
@@ -68,3 +107,12 @@ print("Saya sedang belajar python")
 * maka akan muncul program yang dijalankan, jangan lupa masukan angka
 
 ![output latihan3](https://user-images.githubusercontent.com/47426095/196228930-50635265-af56-4313-98db-6b3e90d333e1.PNG)
+``` python
+masukan nilai pertama: 6
+masukan nilai kedua: 8
+variabel a =  6
+variabel b =  8
+Hasil Penggabungan 8 & 6 = 68
+Hasil penjumlahan 8 + 6 = 14
+Hasil pembagian 8 / 6 = 0
+```
