@@ -20,7 +20,12 @@ Kelas : TI.22.B1<br>
 * tulis kode seperti contoh
 
 ![sc latihan1](https://user-images.githubusercontent.com/47426095/196225840-74027b54-1759-44aa-a97a-24e6491f8ed9.PNG)
-
+```python
+#menampilkan tulisan 'Hello' di layar
+print("Hello")
+#menampilkan tulisan 'Saya sedang belajar python' di layar
+print("Saya sedang belajar python")
+```
 * klik tombol run
 
 ![run python](https://user-images.githubusercontent.com/47426095/196225970-24f8e914-92ba-4f2b-8094-e67844053d1c.PNG)
