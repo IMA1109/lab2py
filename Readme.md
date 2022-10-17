@@ -1,6 +1,6 @@
 # tugas python pertemuan5
 
-Repository ini digunakan untuk memenuhi Tugas Bahasa Pemrograman Pertemuan-6<br><br>
+Repository ini digunakan untuk memenuhi Tugas Bahasa Pemrograman Pertemuan-5<br><br>
 Nama : Orta Yamaesa <br>
 NIM : 312210147<br>
 Kelas : TI.22.B1<br>
@@ -13,3 +13,18 @@ Kelas : TI.22.B1<br>
 | 3 | latihan 3 | [Click Here](#Latihan-3) |
 
 ## Latihan 1
+* buat file latihan1.py
+
+![buat file latihan1](https://user-images.githubusercontent.com/47426095/196225814-00e353e7-4bf8-49fa-a0bf-dab618a3f01d.PNG)
+
+* tulis kode seperti contoh
+
+![sc latihan1](https://user-images.githubusercontent.com/47426095/196225840-74027b54-1759-44aa-a97a-24e6491f8ed9.PNG)
+
+* klik tombol run
+
+![run python](https://user-images.githubusercontent.com/47426095/196225970-24f8e914-92ba-4f2b-8094-e67844053d1c.PNG)
+
+* maka akan muncul program yang dijalankan
+
+![output latihan1](https://user-images.githubusercontent.com/47426095/196226031-5cf0d83f-7851-4915-8e9a-ba29573e4149.PNG)
