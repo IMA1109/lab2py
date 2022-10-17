@@ -80,7 +80,8 @@ hasil penjumlahan a + b = 14
 
 * tulis kode seperti contoh
 
-![sc latihan3](https://user-images.githubusercontent.com/47426095/196228827-fce2b33a-baf6-440e-91f5-670c70b358be.PNG)
+![sc latihan3](https://user-images.githubusercontent.com/47426095/196258729-9f8bb060-8d79-4dc9-9371-ce84242b866a.PNG)
+
 ```python
 #input nilai variabel
 a = input("masukan nilai pertama: ")
@@ -107,7 +108,7 @@ print("Hasil pembagian {1} / {0} = %d".format(a,b) %(a/b))
 * maka akan muncul program yang dijalankan, jangan lupa masukan angka
 
 ![output latihan3](https://user-images.githubusercontent.com/47426095/196228930-50635265-af56-4313-98db-6b3e90d333e1.PNG)
-``` python
+```
 masukan nilai pertama: 6
 masukan nilai kedua: 8
 variabel a =  6
