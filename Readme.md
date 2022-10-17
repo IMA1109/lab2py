@@ -28,3 +28,22 @@ Kelas : TI.22.B1<br>
 * maka akan muncul program yang dijalankan
 
 ![output latihan1](https://user-images.githubusercontent.com/47426095/196226031-5cf0d83f-7851-4915-8e9a-ba29573e4149.PNG)
+
+
+## Latihan 2
+* buat file latihan2.py
+
+![buat file latihan2](https://user-images.githubusercontent.com/47426095/196226746-77ab9834-d5d9-478e-95b9-84c2a5929079.PNG)
+
+* tulis kode seperti contoh
+
+![sc latihan2](https://user-images.githubusercontent.com/47426095/196226836-40354e47-58b9-41e1-984f-976a927d2750.PNG)
+
+* klik tombol run
+
+![run python](https://user-images.githubusercontent.com/47426095/196226867-b202f7d9-79ae-4577-b93f-8279d92d42a5.PNG)
+
+* maka akan muncul program yang dijalankan
+
+![output latihan2](https://user-images.githubusercontent.com/47426095/196226922-3323d8f6-6c99-496f-a256-6be4fa13e638.PNG)
+
