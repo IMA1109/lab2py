@@ -14,7 +14,10 @@ Kelas : TI.22.B1<br>
 | 4 | latihan 3 | [Click Here](#Latihan-3) |
 
 ## Install Python
-1. download python pada web *python.org*
+1. download python pada web 
+'''
+https://python.org
+'''
 
 ![download python](https://user-images.githubusercontent.com/47426095/196260682-ab4d3c1a-b0d9-47ea-8737-db2b81b58410.PNG)
 
