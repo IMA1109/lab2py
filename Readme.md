@@ -1,9 +1,9 @@
 # tugas python pertemuan5
 
 Repository ini digunakan untuk memenuhi Tugas Bahasa Pemrograman Pertemuan-5<br><br>
-Nama : Orta Yamaesa <br>
-NIM : 312210147<br>
-Kelas : TI.22.B1<br>
+Nama : Rima Rahmaulana <br>
+NIM : 352310838<br>
+Kelas : IE.23.C13<br>
 
 ### DAFTAR ISI <br>
 | No | Description | Link |
